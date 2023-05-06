@@ -1,5 +1,5 @@
 import sys
-from pymirror.text_comparator import TextComparator
+from pymirror.text_comparator.comparator import TextComparator
 from PyQt5.QtWidgets import QApplication
 
 
